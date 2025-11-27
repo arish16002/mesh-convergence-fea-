@@ -1,0 +1,4 @@
+A complete ANSYS-based study of stress, strain, and time-dependent loading
+
+This project presents a complete Finite Element Analysis (FEA) workflow of a hexagonal component to understand how mesh refinement and time-varying forces influence structural accuracy. 
+The study covers both Static Structural and Transient Structural simulations performed in ANSYS Workbench.
